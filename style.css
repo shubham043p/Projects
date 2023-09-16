@@ -22,7 +22,7 @@ body{
     
 }
 .text_container{
-    color: white;
+    color: rgb(216, 205, 205);
     max-width: 900px;
     margin: 0 auto;
     padding-top: 40px;
